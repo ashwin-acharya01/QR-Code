@@ -25,8 +25,8 @@ This is a beginner challenge by frontendmentor.io for developing frontend skills
 
 ### Links
 
-- Solution URL: [](https://github.com/ashwin-acharya01/QR-Code)
-- Live Site URL: [](https://qrcodefm.netlify.app/)
+- Solution URL: [QR-Code Solution](https://github.com/ashwin-acharya01/QR-Code)
+- Live Site URL: [Live Url Link](https://qrcodefm.netlify.app/)
 
 
 ### Built with
@@ -44,8 +44,8 @@ This is a beginner challenge by frontendmentor.io for developing frontend skills
 
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/ashwin-acharya01)
-- Twitter - [](https://www.twitter.com/AshwinA61109683)
+- Frontend Mentor - [ashwin-acharya01](https://www.frontendmentor.io/profile/ashwin-acharya01)
+- Twitter - [Ashwin Acharya](https://www.twitter.com/AshwinA61109683)
 
 
 ## Acknowledgments
